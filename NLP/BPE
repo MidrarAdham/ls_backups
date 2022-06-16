@@ -1,0 +1,9 @@
+TOKEN LEARNER:
+    1. insert _ before space
+    2. merge the most frequent pairs together
+        * using counting
+TOKEN SEGMENTER:
+1. take the longest sequent of chars in tokens
+2. break them apart into new tokens
+
+subwords depends on the algorithm and the corpus used to assign subwords
